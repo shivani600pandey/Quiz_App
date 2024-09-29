@@ -1,0 +1,50 @@
+export const data = [
+    {
+        question:"	Which of the following laws is associated with the heating effect of electric current ?",
+        option1:"Joule's law",
+        option2:"Ohm's law ",
+        option3:"Faraday's law ",
+        option4:"Newton's law ",
+        ans:1,
+    },
+    {
+        question:"The value of acceleration due to gravity ‘g’ depends on: 1. Constant of Gravitation ‘G’ 2. Mass of the earth ‘M’ 3. Mass of the falling object ‘m’ 4. Radius of the earth ‘R’ ?",
+        option1:"a, c, d ",
+        option2:"b, c, d ",
+        option3:"a, b, c ",
+        option4:"a, b, d ",
+        ans:4,
+    },
+    {
+        question:"Which element in the periodic table forms maximum number of compounds ?",
+        option1:"H",
+        option2:"O",
+        option3:"S",
+        option4:"C",
+        ans:4,
+    },
+    {
+        question:"A body at rest can have ?",
+        option1:"Speed",
+        option2:"Velocity",
+        option3:"Momentum",
+        option4:"Energy",
+        ans:2,
+    },
+    {
+        question:"A solid metallic hemisphere with radius r is melted and cast into a solid right circular cone with the radius of the base = r. What is the ratio of their curved surface areas ?",
+        option1:"5/?2 ",
+        option2:"2/?5 ",
+        option3:"3/2 ",
+        option4:"5/2 ",
+        ans:2,
+    },
+    {
+        question:"Which of the following statements is true ?",
+        option1:"Carbon monoxide diffuses from lungs into blood and oxygen diffuses from blood into lungs",
+        option2:"Carbon dioxide diffuses from lungs into blood and oxygen diffuses from blood into lungs",
+        option3:"Oxygen diffuses from lungs into blood and carbon dioxide diffuses from blood into lungs ",
+        option4:"Oxygen diffuses from lungs into blood and carbon monoxide diffuses from blood into lungs ",
+        ans:3,
+    }
+]
